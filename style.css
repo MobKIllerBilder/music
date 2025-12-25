@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+    font-size: 55px;
+}
+header{
+    background-image: linear-gradient(to right, #E87838, white, #E87838);
+    padding: 10px;
+}
+iframe{
+    display: inline;
+}
+h2{
+    color: #E87838;
+}
